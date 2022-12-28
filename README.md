@@ -8,9 +8,9 @@ Matsuricon is an annual Japanese pop-culture event featuring anime, manga, and v
 
 # Who are the DevOps team?
 
-Lead Developer - Callie Borgerding (Director of Operations)
-Developer - Alec Hughes (Technology Department Head)
-Developer - Alex Gornall (Technology Assistant Department Head)
+- Lead Developer - Callie Borgerding (Director of Operations)
+- Developer - Alec Hughes (Technology Department Head)
+- Developer - Alex Gornall (Technology Assistant Department Head)
 
 # Where can I learn more about Matsuricon?
 
