@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App" style={{ background: 'url(wave_background.gif)' }}>
+    <div className="App" style={{ background: 'url(./wave_background.gif)', backgroundSize: 'cover' }}>
       <header className="App-header">
         <img src="under_construction.png" className="App-logo" alt="logo" />
         <p>
