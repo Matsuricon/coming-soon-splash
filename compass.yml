@@ -1,5 +1,6 @@
 name: coming-soon-splash
 id: ari:cloud:compass:90e91b9e-d860-4a33-a0eb-ba3d78efdc22:component/ad38fc8f-3e89-4c41-9f24-2f39d3243636/5e57dd76-c207-4954-bf9a-3c078cb28956
+ownerId: 'ari:cloud:teams::team/e34bc13d-58c0-415a-9bbe-a7608e8c6db6'
 description: null
 fields:
   tier: 4
